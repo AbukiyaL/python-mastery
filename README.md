@@ -1,4 +1,3 @@
 # Python Mastery
-- [x] 01_variables.py
-- [x] math_basics.py
-- [x] string_basics.py
+- [x] 01-primitive Types
+- [x] 02-control Flow
