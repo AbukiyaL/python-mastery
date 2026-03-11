@@ -1,3 +1,4 @@
 # Python Mastery
-- [x] 01-primitive Types
-- [x] 02-control Flow
+- [x] 01-Primitive Types
+- [x] 02-Control Flow
+- [x] 03-Functions
